@@ -1,9 +1,8 @@
 # Curso de Javascript do básico ao avançado
 
 Este é o repositório de todos os exemplos que usei no curso de 
-Javascript do básico ao avançado (https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+Javascript do básico ao avançado (https://github.com/Andre-Marques-Dev/curso-javascript-typeScript-fullstack-)
 
-As aulas não estão na ordem de criação e não na ordem criada automaticamente
-pela plataforma do curso.
+As aulas não estão na ordem de criaç.
 
 Bons estudos.
